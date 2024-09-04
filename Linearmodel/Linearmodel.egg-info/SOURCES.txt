@@ -1,0 +1,7 @@
+README.md
+setup.py
+Linearmodel.egg-info/PKG-INFO
+Linearmodel.egg-info/SOURCES.txt
+Linearmodel.egg-info/dependency_links.txt
+Linearmodel.egg-info/requires.txt
+Linearmodel.egg-info/top_level.txt

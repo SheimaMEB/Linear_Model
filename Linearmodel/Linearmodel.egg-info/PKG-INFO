@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Linearmodel
+Version: 0.1
+Summary: Un package pour effectuer des régressions linéaires et visualiser les résultats
+Home-page: https://votre-repo-url
+Author: Votre Nom
+Author-email: votre.email@example.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# Linearmodel
+
+Ce package contient des modules pour charger des données, effectuer des régressions linéaires, et visualiser les résultats.
+
+
